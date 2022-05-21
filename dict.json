@@ -1,0 +1,77 @@
+{
+    "Black": [
+        0,
+        0,
+        0
+    ],
+    "Bright Blue": [
+        0,
+        0,
+        255
+    ],
+    "Bright Green": [
+        0,
+        204,
+        0
+    ],
+    "Bright Orange": [
+        255,
+        102,
+        0
+    ],
+    "Bright Red": [
+        255,
+        0,
+        0
+    ],
+    "Bright Yellow": [
+        255,
+        255,
+        0
+    ],
+    "Bright Yellowish Green": [
+        149,
+        185,
+        11
+    ],
+    "Dark Green": [
+        0,
+        153,
+        0
+    ],
+    "Dark Stone Grey": [
+        76,
+        81,
+        86
+    ],
+    "Light Purple": [
+        238,
+        157,
+        195
+    ],
+    "Medium Lilac": [
+        44,
+        21,
+        119
+    ],
+    "Medium Stone Grey": [
+        156,
+        146,
+        145
+    ],
+    "Reddish Brown": [
+        91,
+        28,
+        12
+    ],
+    "Silver Metallic": [
+        140,
+        140,
+        140
+    ],
+    "White": [
+        255,
+        255,
+        255
+    ]
+}

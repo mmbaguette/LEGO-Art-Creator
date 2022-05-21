@@ -1,10 +1,6 @@
 ﻿# LEGO Art Creator
 
-## Before:
-![image](https://user-images.githubusercontent.com/76597978/169670531-c5bd4fd2-267f-403c-845e-2bec424a002c.png)
-
-## After:
-![image](https://user-images.githubusercontent.com/76597978/169670471-9da95c98-3b06-48d5-9d70-6bd7377cb067.png)
+![image](https://user-images.githubusercontent.com/76597978/169671149-3d8ea3a5-2275-4c11-86aa-ebc6137371da.png)
 
 **NOTE**: I created this program when lego.com used to sell bricks for $0.08/stud CAD in 16 different colours, but I can't find this anymore.
 Also, this program does not have a UI, so you'll need to use a command prompt or terminal to run it.

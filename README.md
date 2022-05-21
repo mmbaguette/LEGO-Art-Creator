@@ -1,5 +1,7 @@
 ﻿# LEGO Art Creator
 
+Generate a preview of an image using LEGO studs, AND know exactly what pieces and the price needed to make it.
+
 ![image](https://user-images.githubusercontent.com/76597978/169671149-3d8ea3a5-2275-4c11-86aa-ebc6137371da.png)
 
 **NOTE**: I created this program when lego.com used to sell bricks for $0.08/stud CAD in 16 different colours, but I can't find this anymore.

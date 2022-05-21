@@ -4,7 +4,6 @@ import json
 import time
 import requests
 import traceback
-import numpy as np
 from colormath.color_diff import delta_e_cie1976
 from colormath.color_objects import sRGBColor, LabColor
 from colormath.color_conversions import convert_color

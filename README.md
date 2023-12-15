@@ -1,6 +1,6 @@
 ﻿# LEGO Art Creator
 
-### Generate a preview of an image using LEGO studs, and know the exact pieces cost required to make it.
+### Generate a preview of an image using LEGO studs, and know the exact pieces and cost required to make it.
 
 ![image](https://user-images.githubusercontent.com/76597978/169671149-3d8ea3a5-2275-4c11-86aa-ebc6137371da.png)
 
